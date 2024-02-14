@@ -1,0 +1,166 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ross Keenan",
+    "label": "Senior Developer @ ReturnX",
+    "image": "https://media.licdn.com/dms/image/D4E03AQEoz924ct8l_g/profile-displayphoto-shrink_800_800/0/1696243346574?e=1713398400&v=beta&t=Km5-oCH8p4FKiU6I8oXAo2i82gU06v9wt5Wx5kQ3YTE",
+    "email": "rossk29@gmail.com",
+    "summary": "Accomplished Fullstack Developer | Spearheading Development of Production-Grade Web Apps",
+
+    "location": {
+      "countryCode": "ZA",
+      "city": "Cape Town"
+    },
+
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ross-keenan-b4429b12b",
+        "url": "https://www.linkedin.com/in/ross-keenan-b4429b12b/"
+      },
+      {
+        "network": "GitHub",
+        "username": "SkepticMystic",
+        "url": "https://github.com/SkepticMystic"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ReturnX",
+      "position": "Senior Software Developer",
+      "startDate": "2022-05-16",
+      "highlights": [],
+      "summary": "At ReturnX, I've lead the development of multiple production web apps, and managed an agile development team.\n- Lead developer on a highly successful B2B product, Dripcel, used by established South African companies to send millions of customer communications each month.\n- Automated internal lead-acquisition and delivery pipelines, leading to a 45% increase in volumes and converted sales.\n- Guided the growth of our development team, taking on new members, and leading them on their career path.",
+      "// url": "https://www.linkedin.com/company/28942771",
+      "location": "Remote"
+    },
+    {
+      "name": "Ask Afrika (Pty) Ltd",
+      "position": "Junior Data Analyst",
+      "startDate": "2021-12-31",
+      "endDate": "2022-05-01",
+      "highlights": [],
+      "summary": "I deepened my data & programming knowledge working with industry experts.\n- Saved 100's of hours every month by automating crucial client reports.\n- Modernised and streamlined data analysis pipelines using Python, R, SQL, and AI. Directly lead to more efficient daily operations.\n- Identified and maximized sales opportunities by providing novel, data-driven insights to internal sales-teams, growing new leads by 43%.",
+      "// url": "https://www.linkedin.com/company/54197",
+      "location": "Pretoria, South Africa"
+    },
+    {
+      "name": "Delve",
+      "position": "Contract Software Developer",
+      "startDate": "2020-01-31",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "During my time at Delve, I contributed to various areas/projects.\n- Automated repetitive, manual tasks to reduce workload by upwards of 28%.\n- Built bespoke web apps, featuring SEO-optimised, mobile-friendly responsive designs. \n- Established robust data-pipelines to unlock novel reporting and analytics opportunities. Directly lead to increased sales and cost-reductions.",
+      "// url": "https://www.linkedin.com/company/29344172",
+      "location": "Cape Town, South Africa"
+    },
+    {
+      "name": "Turning Point Tutors",
+      "position": "Senior Tutor",
+      "startDate": "2017-06-30",
+      "endDate": "2020-06-30",
+      "highlights": [],
+      "summary": "While completing my studies, I was also a statistics and economics tutor.",
+      "description": "- Worked individually with over 35 university students to ace their exams.\n- Developed a year-long online curriculum for students to continue learning during lockdown.",
+      "url": "https://www.linkedin.com/company/10257614",
+      "location": "Pretoria, South Africa"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SACAP",
+      "area": "Psychology",
+      "studyType": "Honours",
+      "startDate": "2018-01-31",
+      "endDate": "2020-12-31",
+      "url": "https://www.sacap.edu.za"
+    },
+    {
+      "institution": "University of Pretoria",
+      "area": "Investment Management",
+      "studyType": "Bachelor of Commerce - BCom",
+      "startDate": "2015-01-31",
+      "endDate": "2017-12-31",
+      "url": "https://www.up.ac.za"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Data Analyst with Python",
+      "issuer": "DataCamp",
+      "startDate": "2022-05-31"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    { "name": "AI", "level": "" },
+    { "name": "AWS", "level": "" },
+    { "name": "CSS", "level": "" },
+    { "name": "Data Analysis", "level": "" },
+    { "name": "Digital Ocean", "level": "" },
+    { "name": "Git", "level": "" },
+    { "name": "JavaScript", "level": "" },
+    { "name": "MongoDB", "level": "" },
+    { "name": "Node.js", "level": "" },
+    { "name": "Python", "level": "" },
+    { "name": "R", "level": "" },
+    { "name": "RabbitMQ", "level": "" },
+    { "name": "React", "level": "" },
+    { "name": "SQL", "level": "" },
+    { "name": "Svelte", "level": "" },
+    { "name": "Tableau", "level": "" },
+    { "name": "TypeScript", "level": "" },
+    { "name": "Vue.js", "level": "" }
+  ],
+  "languages": [
+    {
+      "fluency": "Professional Working",
+      "language": "Afrikaans"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "German"
+    }
+  ],
+  "interests": [{ "name": "Yoga" }, { "name": "Hiking" }],
+  "references": [],
+  "projects": [
+    {
+      "name": "Dripcel",
+      "startDate": "2022-09-30",
+      "summary": "Automated SMS-marketing platform, leveraging AI-generated insights and latest industry standards.",
+      "url": "https://dripcel.com",
+      "entity": "ReturnX",
+      "highlights": [
+        "Used by 100's of South African companies",
+        "Sends millions of messages each month"
+      ]
+    },
+    {
+      "name": "Breadcrumbs",
+      "startDate": "2021-06-02",
+      "summary": "An Obsidian plugin, allowing users to add structured hierarchies to their Markdown notes.",
+      "description": "Built with Typescript, Svelte, and Node.js.",
+      "highlights": [
+        "Downloaded more than 100k times",
+        "Large, passionate community of users"
+      ],
+      "entity": "Open Source",
+      "roles": ["Lead Developer"],
+      "url": "https://github.com/SkepticMystic/breadcrumbs"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "theme": "jsonresume-theme-stackoverflow",
+    "lastModified": "2024-02-14",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
