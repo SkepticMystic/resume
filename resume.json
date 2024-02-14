@@ -30,7 +30,7 @@
     {
       "name": "ReturnX",
       "position": "Senior Software Developer",
-      "startDate": "2022-05-16",
+      "startDate": "2022-05",
       "highlights": [],
       "summary": "At ReturnX, I've lead the development of multiple production web apps, and managed an agile development team.\n- Lead developer on a highly successful B2B product, Dripcel, used by established South African companies to send millions of customer communications each month.\n- Automated internal lead-acquisition and delivery pipelines, leading to a 45% increase in volumes and converted sales.\n- Guided the growth of our development team, taking on new members, and leading them on their career path.",
       "// url": "https://www.linkedin.com/company/28942771",
@@ -39,8 +39,8 @@
     {
       "name": "Ask Afrika (Pty) Ltd",
       "position": "Junior Data Analyst",
-      "startDate": "2021-12-31",
-      "endDate": "2022-05-01",
+      "startDate": "2021-12",
+      "endDate": "2022-05",
       "highlights": [],
       "summary": "I deepened my data & programming knowledge working with industry experts.\n- Saved 100's of hours every month by automating crucial client reports.\n- Modernised and streamlined data analysis pipelines using Python, R, SQL, and AI. Directly lead to more efficient daily operations.\n- Identified and maximized sales opportunities by providing novel, data-driven insights to internal sales-teams, growing new leads by 43%.",
       "// url": "https://www.linkedin.com/company/54197",
@@ -49,8 +49,8 @@
     {
       "name": "Delve",
       "position": "Contract Software Developer",
-      "startDate": "2020-01-01",
-      "endDate": "2020-12-31",
+      "startDate": "2020-01",
+      "endDate": "2020-12",
       "highlights": [],
       "summary": "During my time at Delve, I contributed to various areas/projects.\n- Automated repetitive, manual tasks to reduce workload by upwards of 28%.\n- Built bespoke web apps, featuring SEO-optimised, mobile-friendly responsive designs. \n- Established robust data-pipelines to unlock novel reporting and analytics opportunities. Directly lead to increased sales and cost-reductions.",
       "// url": "https://www.linkedin.com/company/29344172",
@@ -63,16 +63,16 @@
       "institution": "SACAP",
       "area": "Psychology",
       "studyType": "Honours",
-      "startDate": "2018-01-31",
-      "endDate": "2020-12-31",
+      "startDate": "2018-01",
+      "endDate": "2020-12",
       "url": "https://www.sacap.edu.za"
     },
     {
       "institution": "University of Pretoria",
       "area": "Investment Management",
       "studyType": "BCom",
-      "startDate": "2015-01-31",
-      "endDate": "2017-12-31",
+      "startDate": "2015-01",
+      "endDate": "2017-12",
       "url": "https://www.up.ac.za"
     }
   ],
@@ -81,29 +81,29 @@
     {
       "name": "Data Analyst with Python",
       "issuer": "DataCamp",
-      "startDate": "2022-05-31"
+      "startDate": "2022-051"
     }
   ],
   "publications": [],
   "skills": [
-    { "name": "AI", "level": "" },
-    { "name": "AWS", "level": "" },
-    { "name": "CSS", "level": "" },
-    { "name": "Data Analysis", "level": "" },
-    { "name": "Digital Ocean", "level": "" },
-    { "name": "Git", "level": "" },
-    { "name": "JavaScript", "level": "" },
-    { "name": "MongoDB", "level": "" },
-    { "name": "Node.js", "level": "" },
-    { "name": "Python", "level": "" },
-    { "name": "R", "level": "" },
-    { "name": "RabbitMQ", "level": "" },
-    { "name": "React", "level": "" },
-    { "name": "SQL", "level": "" },
-    { "name": "Svelte", "level": "" },
-    { "name": "Tableau", "level": "" },
-    { "name": "TypeScript", "level": "" },
-    { "name": "Vue.js", "level": "" }
+    { "name": "AI" },
+    { "name": "AWS" },
+    { "name": "CSS" },
+    { "name": "Data Analysis" },
+    { "name": "Digital Ocean" },
+    { "name": "Git" },
+    { "name": "JavaScript" },
+    { "name": "MongoDB" },
+    { "name": "Node.js" },
+    { "name": "Python" },
+    { "name": "R" },
+    { "name": "RabbitMQ" },
+    { "name": "React" },
+    { "name": "SQL" },
+    { "name": "Svelte" },
+    { "name": "Tableau" },
+    { "name": "TypeScript" },
+    { "name": "Vue.js" }
   ],
   "languages": [
     {
@@ -124,7 +124,7 @@
   "projects": [
     {
       "name": "Dripcel",
-      "startDate": "2022-09-30",
+      "startDate": "2022-09",
       "// NOTE": "The elegant/stackoverflow theme doesn't display the summary...",
       "summary": "Automated SMS-marketing platform, leveraging AI-generated insights and latest industry standards.",
       "description": "Automated SMS-marketing platform, leveraging AI-generated insights and latest industry standards.",
@@ -137,7 +137,7 @@
     },
     {
       "name": "Breadcrumbs",
-      "startDate": "2021-06-02",
+      "startDate": "2021-06",
       "// NOTE": "The elegant/stackoverflow theme doesn't display the summary...",
       "summary": "An Obsidian plugin, allowing users to add structured hierarchies to their Markdown notes.",
       "description": "An Obsidian plugin, allowing users to add structured hierarchies to their Markdown notes. Built with Typescript, Svelte, and Node.js.",
