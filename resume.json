@@ -159,7 +159,7 @@
   ],
   "meta": {
     "version": "v1.0.0",
-    "theme": "rickosborne",
+    "theme": "stackoverflow",
     "lastModified": "2024-02-14",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
