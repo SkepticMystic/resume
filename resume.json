@@ -54,17 +54,6 @@
       "summary": "During my time at Delve, I contributed to various areas/projects.\n- Automated repetitive, manual tasks to reduce workload by upwards of 28%.\n- Built bespoke web apps, featuring SEO-optimised, mobile-friendly responsive designs. \n- Established robust data-pipelines to unlock novel reporting and analytics opportunities. Directly lead to increased sales and cost-reductions.",
       "// url": "https://www.linkedin.com/company/29344172",
       "location": "Cape Town, South Africa"
-    },
-    {
-      "name": "Turning Point Tutors",
-      "position": "Senior Tutor",
-      "startDate": "2017-06-30",
-      "endDate": "2020-06-30",
-      "highlights": [],
-      "summary": "While completing my studies, I was also a statistics and economics tutor.",
-      "description": "- Worked individually with over 35 university students to ace their exams.\n- Developed a year-long online curriculum for students to continue learning during lockdown.",
-      "url": "https://www.linkedin.com/company/10257614",
-      "location": "Pretoria, South Africa"
     }
   ],
   "volunteer": [],
@@ -135,7 +124,9 @@
     {
       "name": "Dripcel",
       "startDate": "2022-09-30",
+      "// NOTE": "The elegant/stackoverflow theme doesn't display the summary...",
       "summary": "Automated SMS-marketing platform, leveraging AI-generated insights and latest industry standards.",
+      "description": "Automated SMS-marketing platform, leveraging AI-generated insights and latest industry standards.",
       "url": "https://dripcel.com",
       "entity": "ReturnX",
       "highlights": [
@@ -146,8 +137,9 @@
     {
       "name": "Breadcrumbs",
       "startDate": "2021-06-02",
+      "// NOTE": "The elegant/stackoverflow theme doesn't display the summary...",
       "summary": "An Obsidian plugin, allowing users to add structured hierarchies to their Markdown notes.",
-      "description": "Built with Typescript, Svelte, and Node.js.",
+      "description": "An Obsidian plugin, allowing users to add structured hierarchies to their Markdown notes. Built with Typescript, Svelte, and Node.js.",
       "highlights": [
         "Downloaded more than 100k times",
         "Large, passionate community of users"
@@ -159,7 +151,7 @@
   ],
   "meta": {
     "version": "v1.0.0",
-    "theme": "stackoverflow",
+    "theme": "elegant",
     "lastModified": "2024-02-14",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
