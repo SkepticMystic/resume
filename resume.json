@@ -3,6 +3,7 @@
   "basics": {
     "name": "Ross Keenan",
     "label": "Senior Developer @ ReturnX",
+    "// NOTE": "The elegant theme doesn't correctly show the image: https://github.com/mudassir0909/jsonresume-theme-elegant/issues/158",
     "image": "https://media.licdn.com/dms/image/D4E03AQEoz924ct8l_g/profile-displayphoto-shrink_800_800/0/1696243346574?e=1713398400&v=beta&t=Km5-oCH8p4FKiU6I8oXAo2i82gU06v9wt5Wx5kQ3YTE",
     "email": "rossk29@gmail.com",
     "summary": "Accomplished Fullstack Developer | Spearheading Development of Production-Grade Web Apps",
@@ -48,7 +49,7 @@
     {
       "name": "Delve",
       "position": "Contract Software Developer",
-      "startDate": "2020-01-31",
+      "startDate": "2020-01-01",
       "endDate": "2020-12-31",
       "highlights": [],
       "summary": "During my time at Delve, I contributed to various areas/projects.\n- Automated repetitive, manual tasks to reduce workload by upwards of 28%.\n- Built bespoke web apps, featuring SEO-optimised, mobile-friendly responsive designs. \n- Established robust data-pipelines to unlock novel reporting and analytics opportunities. Directly lead to increased sales and cost-reductions.",
@@ -69,7 +70,7 @@
     {
       "institution": "University of Pretoria",
       "area": "Investment Management",
-      "studyType": "Bachelor of Commerce - BCom",
+      "studyType": "BCom",
       "startDate": "2015-01-31",
       "endDate": "2017-12-31",
       "url": "https://www.up.ac.za"
@@ -151,7 +152,7 @@
   ],
   "meta": {
     "version": "v1.0.0",
-    "theme": "elegant",
+    "theme": "kendall",
     "lastModified": "2024-02-14",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
