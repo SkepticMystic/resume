@@ -107,19 +107,19 @@
   ],
   "languages": [
     {
-      "fluency": "Professional Working",
-      "language": "Afrikaans"
-    },
-    {
       "fluency": "Native Speaker",
       "language": "English"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Afrikaans"
     },
     {
       "fluency": "Limited Working",
       "language": "German"
     }
   ],
-  "interests": [{ "name": "Yoga" }, { "name": "Hiking" }],
+  "interests": [{ "name": "Yoga" }, { "name": "Hiking" }, { "name": "Dogs!" }],
   "references": [],
   "projects": [
     {
